@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **MERN Chat App**
 
-- 👨‍💻 All of my projects are available at [https://sushantraipuriportfolio.netlify.app/](https://sushantraipuriportfolio.netlify.app/)
+- 👨‍💻 You can see my portfolio  at [https://sushant-portfolio-kappa.vercel.app/](https://sushant-portfolio-kappa.vercel.app/)
 
 - 📫 How to reach me **cashu853@gmail.com**
 
