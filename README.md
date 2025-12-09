@@ -3,13 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushantraipuri123" alt="sushantraipuri123" /></a> </p>
 
-- 🌱 I’m currently learning **Nextjs**
-
-- 👯 I’m looking to collaborate on **MERN Chat App**
-
-
-- 📫 How to reach me **cashu853@gmail.com**
-
+### 👨🏻‍💻 About Me
+- 🔭 Currently building **ReachWise – Connect Brands & Creators**
+- 🌱 Actively learning & working with **Next.js**
+- 💬 Ask me about **React, Node.js, Express, MongoDB**
+- 📫 Reach me at **cashu853@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/sushant_raipuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sushant_raipuri" height="30" width="40" /></a>
