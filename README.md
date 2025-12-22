@@ -40,12 +40,13 @@
 
 ### 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sushantraipuri123&theme=algolia&no-frame=true&row=1&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sushantraipuri123&theme=onedark&row=1&margin-w=15" />
 </p>
+
 
 ---
 
-### 📊 GitHub Stats (Horizontal & Clean)
+### 📊 GitHub Stats 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=sushantraipuri123&show_icons=true&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantraipuri123&layout=compact&hide_border=true" />
@@ -59,7 +60,7 @@
 
 ### 🐍 GitHub Contribution Game
 <p align="center">
-  <img src="https://github.com/sushantraipuri123/sushantraipuri123/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/sushantraipuri123/sushantraipuri123/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
