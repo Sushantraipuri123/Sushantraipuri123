@@ -12,7 +12,7 @@
 
 --- 
 
-<p align="left">
+<p align="center">
   📩 <b>Connect with me:</b> 
   <a href="mailto:cashu853@gmail.com">cashu853@gmail.com</a> |
   <a href="https://instagram.com/sushant_raipuri">Instagram</a>
