@@ -6,7 +6,7 @@
 --- 
 ### 🧠 About Me
 - 🚀 Passionate **Full Stack Developer (MERN)**
-- 🏗️ Strong focus on **real-world, production-ready apps**
+- 🏗️ Strong focus on **real-world, production-ready apps**  
 - ⚙️ Clean code, scalable APIs & optimized UI
 - 🌱 Currently working deeply with **Next.js &  advanced backend patterns**
 
