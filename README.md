@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushantraipuri123" alt="sushantraipuri123" /></a> </p>
 
 --- 
-### 🧠 About Me   
+### 🧠 About Me    
 - 🚀 Passionate **Full Stack Developer (MERN)**  
 - 🏗️ Strong focus on **real-world, production-ready apps**
 - ⚙️ Clean code, scalable APIs & optimized UI
