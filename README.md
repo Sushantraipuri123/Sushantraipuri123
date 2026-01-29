@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sushant Raipuri</h1>
 <h3 align="center">A passionate MERN Stack from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushantraipuri123" alt="sushantraipuri123" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushantraipuri123" alt="sushantraipuri123" /></a> </p> -->
 
 ---
 ### 🧠 About Me
@@ -45,11 +45,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sushantraipuri123&show_icons=true&locale=en" alt="sushantraipuri123" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sushantraipuri123&" alt="sushantraipuri123" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sushantraipuri123&" alt="sushantraipuri123" /></p> 
 
 ---
 
-<p align="center">
+<div align="center">
   <b>Consistent || Curious || Always building.</b>
-</p>
+</div>
 
