@@ -50,6 +50,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sushantraipuri123&theme=react-dark&hide_border=true" />
 </p>
 
-
+<p align="center">
+ <img width="1000" src="/github-snake.svg" alt="snake"/>
+</p>
 
 <h3 align="center">✨ Consistent • Curious • Always Building ✨</h3>
