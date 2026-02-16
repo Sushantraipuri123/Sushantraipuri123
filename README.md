@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sushant Raipuri</h1>
-<h3 align="center">🚀 Full Stack MERN Developer | Next.js Specialist</h3>
+<h3 align="center">🚀 MERN Stack  Developer | Next.js Specialist</h3>
 
 <p align="center">
   <a href="mailto:cashu853@gmail.com">
@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-- 🚀 Passionate **Full Stack Developer (MERN)**
+- 🚀 Passionate **MERN Stack Developer **
 - 🏗️ Focused on **real-world, scalable, production apps**
 - ⚙️ Clean Architecture • Optimized APIs • Smooth UI/UX
 - 🌱 Currently mastering **Next.js & Advanced Backend Patterns**
