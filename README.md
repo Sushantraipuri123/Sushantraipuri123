@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sushant Raipuri</h1>
-<h3 align="center">🚀 MERN Stack  Developer | Next.js Specialist</h3>  
+<h3 align="center">🚀 MERN Stack  Developer | Next.js Specialist</h3>
 
 <p align="center"> 
   <a href="mailto:cashu853@gmail.com"> 
