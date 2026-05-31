@@ -4,7 +4,7 @@
   <a href="mailto:cashu853@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://instagram.com/sushant_raipuri">  
+  <a href="https://instagram.com/sushant_raipuri">   
     <img src="https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram" />
   </a> 
 </p> 
