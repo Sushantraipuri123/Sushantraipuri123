@@ -10,7 +10,6 @@
 </p>
  
 --- 
-  
 ## 🧠 About Me  
 
 - 🚀 Passionate **MERN Stack Developer **
