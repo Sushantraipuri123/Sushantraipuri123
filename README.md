@@ -8,7 +8,6 @@
     <img src="https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram" />
   </a> 
 </p>
-  
 --- 
 ## 🧠 About Me  
 
