@@ -6,7 +6,7 @@
   </a> 
   <a href="https://instagram.com/sushant_raipuri">
     <img src="https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram" />
-  </a>
+  </a> 
 </p>
 ---  
 ## 🧠 About Me  
