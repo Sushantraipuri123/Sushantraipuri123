@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sushant Raipuri</h1>   
 <h3 align="center">🚀 MERN Stack  Developer | Next.js Specialist</h3> 
-<p align="center">  
+<p align="center">
   <a href="mailto:cashu853@gmail.com"> 
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /> 
   </a> 
@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram" />
   </a>  
 </p>
----   
+---
 ## 🧠 About Me  
 
 - 🚀 Passionate **MERN Stack Developer **
