@@ -10,7 +10,7 @@
 </p>
 ---
 ## 🧠 About Me  
-
+    
 - 🚀 Passionate **MERN Stack Developer **
 - 🏗️ Focused on **real-world, scalable, production apps**
 - ⚙️ Clean Architecture • Optimized APIs • Smooth UI/UX
