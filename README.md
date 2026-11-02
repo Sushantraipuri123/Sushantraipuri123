@@ -14,7 +14,7 @@
 - 🏗️ Focused on **real-world, scalable, production apps**
 - ⚙️ Clean Architecture • Optimized APIs • Smooth UI/UX
 - 🌱 Currently mastering **Next.js & Advanced Backend Patterns**
-- 🔥 Building consistently & leveling up daily
+- 🔥 Building consistently & leveling up daily 
 
 
 
